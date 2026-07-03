@@ -31,53 +31,20 @@ My interests include:
 
 ---
 
-## Tech Stack
-
-### Languages
+## Technical Focus
 
 ```text
-JavaScript • TypeScript • Python • Java • SQL
+Frontend    React • Next.js • TypeScript
+
+Backend     Node.js • Express
+
+Database    MongoDB • SQL
+
+AI          Python • Gemini API • Prompt Engineering
+
+Tools       Git • Docker • Figma
 ```
 
-### Frontend
-
-```text
-React • Next.js • Tailwind CSS • HTML • CSS
-```
-
-### Backend
-
-```text
-Node.js • Express.js • REST APIs
-```
-
-### Database
-
-```text
-MongoDB • MySQL
-```
-
-### Tools
-
-```text
-Git • GitHub • Figma • Postman • VS Code
-```
-
----
-
-## Currently Building
-
-• Nexus Finance AI
-
-AI-powered personal finance platform combining:
-
-- Machine Learning
-- Explainable AI
-- Intelligent Budgeting
-- Investment Insights
-- Gemini Integration
-
----
 
 ## Current Focus
 
@@ -87,15 +54,6 @@ AI-powered personal finance platform combining:
 - Open Source Contributions
 - Creating impactful software products
 
----
-
-## Philosophy
-
-> Great software isn't just built.
->
-> It's thoughtfully designed, carefully engineered, and created to solve meaningful problems.
-
----
 
 <div align="center">
 
